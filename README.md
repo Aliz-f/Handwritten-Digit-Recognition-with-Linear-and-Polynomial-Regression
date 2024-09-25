@@ -1,0 +1,2 @@
+# Handwritten-Digit-Recognition-with-Linear-and-Polynomial-Regression
+A project that tackles the handwritten digit recognition problem using intensity and symmetry as input variables. The goal is to classify digit 1 against all other digits using linear regression and a third-order polynomial transformation. The project includes a comparison of performance metrics and visualizations of classifier boundaries.
